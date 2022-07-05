@@ -8,7 +8,7 @@ function open() {
 }
 
 function store(db) {
-    content = JSON.stringify(db); // de js para texto json
+    content = JSON.stringify(db,null,4); // de js para texto json
     fs.writeFileSync("./db.json", content, "utf8")
 }
 

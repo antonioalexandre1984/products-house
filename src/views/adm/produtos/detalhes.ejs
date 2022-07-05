@@ -16,7 +16,7 @@
   </head>
 
   <body>
-    <%- include('../partials/header') %>
+    <%- include('../../partials/header') %>
 
     <main class="my-5 pt-5">
       <section class="d-flex justify-content-evenly container">
@@ -48,21 +48,12 @@
             <span>Ou em 1x no cartão com até <b>5 % OFF</b></span>
             <button>Ver mais opções de pagamento</button>
           </div>
-          info produtos: id, imagem, nome, preco
-          <form action="/carrinho/adicionar" method="POST">
-            <input type="hidden" name="id" value="<%= produto.id %>" />
-            <input type="hidden" name="nome" value="<%= produto.nome %>" />
-            <input type="hidden" name="preco" value="<%= produto.preco %>" />
-            <input type="hidden" name="imagem" value="<%= produto.imagem %>" />
-            <button type="submit" class="btn btn-success">COMPRAR</button>
-          </form>
 
           <div class="mt-5"><%= produto.descricao %></div>
         </div>
       </section>
     </main>
 
-    <%- include('../partials/footer') %>
+    <%- include('../../partials/footer') %>
   </body>
 </html>
-Footer

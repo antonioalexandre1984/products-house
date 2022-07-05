@@ -5,8 +5,47 @@
             "nome": "Console Microsoft Xbox Series S, 512GB, Branco",
             "descricao": "Xbox Series S, o menor e mais elegante de todos os tempos. Com taxas de quadros mais altas, tempos de carregamento mais rápidos e mundos mais ricos e dinâmicos, o Xbox Series S oferece desempenho e velocidade de última geração em um formato compacto e totalmente digital.",
             "imagem": "https://images.kabum.com.br/produtos/fotos/128561/console-microsoft-xbox-series-s-500gb-branco-rrs-00006_1601067301_gg.jpg",
-            "preco": "2.249,90",
+            "preco": "2249.90",
             "ativo": true
+        },
+        {
+            "id": "d7d1e66d-4440-4fce-a953-953e456b3848",
+            "nome": "SSD Kingston A400, 120GB, SATA",
+            "imagem": "https://images.kabum.com.br/produtos/fotos/85196/85196_index_gg.jpg",
+            "preco": "200.55",
+            "ativo": true,
+            "descricao": "SSD Kingston A400, 120GB, SATA, Leitura 500MB/s, Gravação 350MB/s\r\n \r\n\r\nSSD Kingston A400 é o mais confiável e durável do que um disco rígido\r\nA unidade de estado sólido A400 da Kingston aumenta drasticamente a resposta do seu computador com tempos incríveis de inicialização, carregamento e transferência, comparados a discos rígidos mecânicos.\r\n\r\n \r\n\r\nMais velocidade para o seu PC com A400\r\nReforçado com uma controladora de última geração para velocidades de leitura e gravação de até 500MB/s e 450MB/s, este SSD é 10x mais rápido do que um disco rígido tradicional para melhor desempenho, resposta ultrarrápida em multitarefas e um computador mais rápido de modo geral. Também mais confiável e durável do que um disco rígido, o A400 é feito com memória Flash.\r\n\r\n \r\n\r\nO SSD mais resistente\r\nO SSD Kingston A400, não existem partes móveis, com menor probabilidade de falhas do que um disco rígido mecânico. Também é mais frio e mais silencioso e sua resistência a choques e vibração torna-o ideal para notebooks e outros dispositivos móveis de computação.\r\n\r\n \r\n\r\nDiversas Capacidades do A400\r\nO A400 está disponível em diversas capacidades de 120GB oferecendo todo o espaço que você precisa para aplicativos, vídeos, fotos e outros documentos importantes. Você também pode substituir seu disco rígido ou um SSD menor por uma unidade grande o suficiente para conter todos os seus arquivos. SSD confiável e durável para melhor desempenho do computador e respostas ultrarrápidas em multitarefas.\r\n\r\n \r\n\r\nSSD Kingston A400 é mais rápido que um disco Rígido \r\nRápida inicialização, carregamento e transferência de arquivos; Mais confiável e mais durável do que um disco rígido; Diversas capacidades com espaço para aplicativos ou para substituição do disco rígido."
+        },
+        {
+            "nome": "Monitor Gamer Ozone 27 LED, 144 Hz, Quad HD, 1ms, FreeSync, HDR, sRGB, HDMI/DisplayPort - OZDSP27IPS",
+            "imagem": "https://images.kabum.com.br/produtos/fotos/114351/monitor-gamer-led-ozone-27-qhd-2k-ips-hdmi-displayport-144hz-0-5ms-ozdsp27ips_1608297650_gg.jpg",
+            "preco": "1999.90",
+            "ativo": true,
+            "descricao": "Conforto garantido. O monitor LED DSP27IPS foi construído para longas sessões de jogo. Com um design moderno, luz de fundo do ambiente em LED e projeção inovadora do logotipo, moldura fina e quadros reduzidos, é perfeito para um ambiente de tela múltipla. Como alternativa, se preferir, você pode usar os sistemas VESA para montá-lo na parede e liberar mais espaço para sua instalação. Seu suporte sólido de três pernas garante boa estabilidade, mesmo para os movimentos mais repentinos. E isso não é tudo. Graças às tecnologias Low Blue Light e Flicker Free que ele incorpora, você também cuidará da sua visão. IPS, puro espetáculo visual. Projetado para a vitória, com uma tela LCD IPS, oferece 27 polegadas de imagens nítidas e claras. Você sentirá todos os detalhes como se estivesse lá, graças à sua resolução QHD 2K, 2560 x 1440 pixels que o envolverão em todas as cenas, com contraste de 1000: 1, tanto nos tons mais claros quanto nos mais escuros, graças à sua compatibilidade com HDR tecnologia. Com a avançada tecnologia IPS, abrange 100% dos espaços de cores sRGB e 96% dos espaços DCI-P3, com uma paleta perfeita de 10 bits, oferecendo excelente textura de profundidade e satisfazendo até os designers mais exigentes. O DSP27IPS oferece tons suaves, naturais, vibrantes e soberbamente definidos com detalhes nítidos e precisão incrível, graças aos mais recentes padrões de cores. Além disso, oferece um ângulo de visão de 178º / 178º, o que significa que você pode ver a imagem perfeitamente de frente, laterais, acima e abaixo, minimizando qualquer alteração possível no tom. Facilmente configuráveis, as configurações estão localizadas na parte traseira, permitindo alterar o brilho ou o contraste em tempo real. Da mesma forma, você também pode escolher entre os diferentes modos de cores incluídos, como modo de jogo ou FPS. Conectividade. O Ozone DSP27IPS vem perfeitamente equipado com duas entradas HDMI, além de uma entrada Display Port 1.2, um conector USB e uma entrada de áudio para seus acessórios de som. Fluidez e sensibilidade absolutas. O DSP27IPS possui uma taxa de atualização de 144Hz, duas vezes a taxa de atualização que uma tela normal oferece. Por outro lado, seu tempo de resposta de 0.5 milissegundo oferece uma experiência de jogo super suave que permite que você reaja em tempo real. Sincronização completa. O monitor DSP27IPS é compatível com o AMD Freesync e o Nvidia G-Sync; portanto, esqueça as distorções e interrupções da tela e os atrasos desajeitados na imagem que impedem a vitória.",
+            "id": "8327870d-7462-49d9-8dec-f0d24b31b244"
         }
+    ],
+    "usuarios": [
+        {
+            "id": "1",
+            "nome": "admin",
+            "email": "admin@mail.com",
+            "senha": "$2a$10$Rt2S0XGzhimd/2eO9k3S4u16N6mgyEuCGzelUOzxlREt/abAJ2Qke",
+            "logado": false,
+            "tipoUsuario": "admin"
+        },
+        {
+            "nome": "Wendel",
+            "email": "wendel@mail.com",
+            "senha": "$2a$10$Rt2S0XGzhimd/2eO9k3S4u16N6mgyEuCGzelUOzxlREt/abAJ2Qke",
+            "id": "6525f414-7383-4ee1-a685-76c26fcfe176"
+        },
+        {
+            "nome": "alexandre",
+            "email": "alexandre@gmail.com",
+            "senha": "$2a$10$FVrpFpXtFEgan7Yx3t.N5.jKA8xh3hjpfd222ew2qYk0AMOvVuk0.",
+            "id": "f1c40376-6caf-4615-a410-9831ab828a3a"
+        }
+      
     ]
 }
